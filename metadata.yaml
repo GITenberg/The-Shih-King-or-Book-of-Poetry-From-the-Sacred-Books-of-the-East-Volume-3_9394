@@ -1,0 +1,26 @@
+_repo: The-Shih-King-or-Book-of-Poetry-From-the-Sacred-Books-of-the-East-Volume-3_9394
+creator:
+  author:
+    agent_name: Legge, James
+    alias: Li, Ya-ko
+    birthdate: 1815
+    deathdate: 1897
+    gutenberg_agent_id: '1114'
+    url: http://www.gutenberg.org/2009/agents/1114
+    wikipedia: http://en.wikipedia.org/wiki/James_Legge
+description: ''
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9394'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Shi jing'
+- !lcsh 'Confucianism'
+title: "The Shih King, or, Book of Poetry\r\nFrom the Sacred Books of the East Volume\
+  \ 3"
+url: http://www.gutenberg.org/ebooks/9394
